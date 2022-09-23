@@ -1,3 +1,2 @@
 # Tinyhttpd
-一次对Tinyhttpd完整的精读，注释，测试
-https://www.cnblogs.com/nengm1988/p/7816618.html
+第一个学习的C++项目
